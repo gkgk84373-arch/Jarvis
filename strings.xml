@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gopal Jarvis</string>
+    <string name="a11y_desc">आपकी आवाज़ के कमांड पर फ़ोन की स्क्रीन पढ़ना और टैप/टाइप करना।</string>
+</resources>
